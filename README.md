@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MortyAPI
-- 👀 I’m interested in GoLang, Python, PHP, VB
+- 👋 Hi, I’m @NetworkingFish
+- 👀 I’m interested in Python & Golang
 - 🌱 I’m currently expanding on GoLang
 - 💞️ I’m looking to collaborate on future projects with people
-- 📫 How to reach me no where
+- 📫 How to reach me? - No where.
 
 <!---
 MortyAPI/MortyAPI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
